@@ -1,2 +1,2 @@
-# rn-todo-app
+Todo list app for mobile
 
